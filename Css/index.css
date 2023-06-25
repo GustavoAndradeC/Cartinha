@@ -54,20 +54,6 @@ header {
         flex-direction: column;
     }
     
-    img {
-        width: 25%;
-        align-items: center;
-        flex-direction: column;
-    }
-}
-
-@media screen and (max-width: 675px) {
-    header {
-        width: 100%;
-        align-items: center;
-        flex-direction: column;
-    }
-    
     .atriz {
         padding: 20px;
         flex-direction: column;
